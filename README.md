@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=51&duration=2500&pause=1000&color=F04029&vCenter=true&repeat=false&width=435&height=80&lines=Seja+bem-vindo!)](https://git.io/typing-svg)
-🙋 Me chamo Pedro e estou no terceiro ano do Ensino Médio Técnico em Informática.
-🧠 Aprimorando minhas competências em **desenvolvimento web**, **ciência de dados** e **UX & UI design**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=51&duration=2500&pause=1000&color=F04029&vCenter=true&repeat=false&width=435&height=80&lines=Seja+bem-vindo!)](https://git.io/typing-svg)<br>
+🙋 Me chamo Pedro e estou no terceiro ano do Ensino Médio Técnico em Informática.<br>
+🧠 Aprimorando minhas competências em **desenvolvimento web**, **ciência de dados** e **UX & UI design**.<br>
 ## <span style="color: #f04029">Me encontre!</span>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nombrefiles) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:particular.files@gmail.com)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nombrefiles)
