@@ -3,7 +3,7 @@
 🧠 Aprimorando minhas competências em **desenvolvimento web**, **ciência de dados** e **UX & UI design**.<br>
 ## <span style="color: #f04029">Me encontre!</span>
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nombrefiles) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:particular.files@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nombrefiles)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nombrefiles) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:publico.files@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nombrefiles)
 
 ---
 #  <span style="color: #f04029">Tech Stack</span>
