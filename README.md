@@ -24,8 +24,14 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
 
 ---
-# <span style="color: #f04029">Linguagens mais usadas</span>
+# GitHub Stats
 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nombrefiles&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nombrefiles" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nombrefiles&layout=compact&langs_count=3&card_width=320" />
+</a>
+
 
 ---
