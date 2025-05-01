@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=50&duration=2500&pause=1000&color=1f38e2&vCenter=true&width=435&height=100&lines=Seja+bem-vindo%2Fa!)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=50&duration=2500&pause=1000&color=485df1&vCenter=true&width=435&height=100&lines=Seja+bem-vindo%2Fa!)](https://git.io/typing-svg)<br>
 🙋 Me chamo Pedro e estou no terceiro ano do Ensino Médio Técnico em Informática.<br>
 🧠 Aprimorando minhas competências em **desenvolvimento web**, **ciência de dados** e **UX & UI design**.<br>
 ## <span style="color: #f04029">Me encontre!</span>
