@@ -49,5 +49,5 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nombrefiles&layout=compact&theme=swift&card_width=320" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nombrefiles&layout=compact&theme=swift&card_width=320&langs_count=3" />
 </p>
