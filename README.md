@@ -22,9 +22,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-485df1?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f04029?style=flat-square&logo=javascript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-485df1?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f04029?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-f04029?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-485df1?style=flat-square&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f04029?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Data Science
 
@@ -49,5 +49,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nombrefiles&layout=compact&theme=swift&card_width=320&langs_count=4" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nombrefiles&layout=compact&theme=swift&card_width=320&langs_count=4&hide=php,html,css" />
 </p>
+
