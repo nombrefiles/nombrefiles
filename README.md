@@ -24,7 +24,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-485df1?style=flat-square&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-f04029?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-485df1?style=flat-square&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f04029?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-f04029?style=flat-square&logo=mysql&logoColor=white)
 
 ### Data Science
 
