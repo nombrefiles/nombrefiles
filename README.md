@@ -1,54 +1,41 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=50&duration=2500&pause=1000&color=485df1&vCenter=true&width=435&height=100&lines=Welcome!)](https://git.io/typing-svg)<br>
-🙋 Hi! I'm Pedro, a junior student in a technical high school program focused on Informatics - IFSul Charqueadas.<br>
-🧠 I'm currently developing skills in **web development**, **data science**, and **UX & UI design**.<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=50&duration=2500&pause=1000&color=2e2e2e&vCenter=true&width=435&height=100&lines=welcome!)](https://git.io/typing-svg)<br> 
+
+› hi! im pedro, a junior student in a technical high school program focused on informatics: _ifsul charqueadas_.<br> 
+› im currently developing skills in **web development** and **data science**.<br> 
 
 ---
 
-## Find Me
-
-[![Behance](https://img.shields.io/badge/Behance-485df1?style=flat-square&logo=behance&logoColor=white)](https://behance.net/nombrefiles) 
-[![Email](https://img.shields.io/badge/Email-f04029?style=flat-square&logo=gmail&logoColor=white)](mailto:publico.files@gmail.com) 
-[![Spotify](https://img.shields.io/badge/Spotify-485df1?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/eu7o9cie6rtllm7l9qm541a3g?si=2d80e92259554429)
-[![Instagram](https://img.shields.io/badge/Instagram-f04029?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nombrefiles) 
-
----
-
-## Tech Stack
-
-### Web Development
-
-![Spring](https://img.shields.io/badge/Spring-485df1?style=flat-square&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/Java-f04029?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-485df1?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f04029?style=flat-square&logo=javascript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-485df1?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-f04029?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-485df1?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-f04029?style=flat-square&logo=mysql&logoColor=white)
-
-### Data Science
-
-![Python](https://img.shields.io/badge/Python-485df1?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-f04029?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-485df1?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-f04029?style=flat-square&logo=plotly&logoColor=white)
-
-### UX & UI Design
-
-![Figma](https://img.shields.io/badge/Figma-485df1?style=flat-square&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-f04029?style=flat-square&logo=adobe%20illustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-485df1?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-
-### Other Tools
-
-![Git](https://img.shields.io/badge/Git-f04029?style=flat-square&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-485df1?style=flat-square&logo=markdown&logoColor=white)
+## find me
+[![behance](https://img.shields.io/badge/behance-2e2e2e?style=flat-square&logo=behance&logoColor=white)](https://behance.net/nombrefiles) 
+[![email](https://img.shields.io/badge/email-2e2e2e?style=flat-square&logo=gmail&logoColor=white)](mailto:publico.files@gmail.com) 
+[![spotify](https://img.shields.io/badge/spotify-2e2e2e?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/eu7o9cie6rtllm7l9qm541a3g?si=2d80e92259554429) 
+[![instagram](https://img.shields.io/badge/instagram-2e2e2e?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nombrefiles) 
 
 ---
 
-## GitHub Stats
+## tech stack
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nombrefiles&layout=compact&theme=swift&card_width=320&langs_count=4&hide=php,html,css" />
-</p>
+### web development
+![spring](https://img.shields.io/badge/spring-2e2e2e?style=flat-square&logo=spring&logoColor=white) 
+![java](https://img.shields.io/badge/java-2e2e2e?style=flat-square&logo=openjdk&logoColor=white) 
+![typescript](https://img.shields.io/badge/typescript-2e2e2e?style=flat-square&logo=typescript&logoColor=white) 
+![javascript](https://img.shields.io/badge/javascript-2e2e2e?style=flat-square&logo=javascript&logoColor=white) 
+![nodejs](https://img.shields.io/badge/node.js-2e2e2e?style=flat-square&logo=node.js&logoColor=white) 
+![html5](https://img.shields.io/badge/html5-2e2e2e?style=flat-square&logo=html5&logoColor=white) 
+![css3](https://img.shields.io/badge/css3-2e2e2e?style=flat-square&logo=css3&logoColor=white) 
+![mysql](https://img.shields.io/badge/mysql-2e2e2e?style=flat-square&logo=mysql&logoColor=white) 
 
+### data science
+![python](https://img.shields.io/badge/python-2e2e2e?style=flat-square&logo=python&logoColor=white) 
+![pandas](https://img.shields.io/badge/pandas-2e2e2e?style=flat-square&logo=pandas&logoColor=white) 
+![numpy](https://img.shields.io/badge/numpy-2e2e2e?style=flat-square&logo=numpy&logoColor=white) 
+![plotly](https://img.shields.io/badge/plotly-2e2e2e?style=flat-square&logo=plotly&logoColor=white) 
+
+### other tools
+![git](https://img.shields.io/badge/git-2e2e2e?style=flat-square&logo=git&logoColor=white) 
+![markdown](https://img.shields.io/badge/markdown-2e2e2e?style=flat-square&logo=markdown&logoColor=white) 
+
+---
+
+## github stats
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nombrefiles&layout=compact&hide=html,css&exclude_repo=ensaiei,premierLeague24-dataAnalisys,pw2&langs_count=4&title_color=000000&text_color=2e2e2e&bg_color=ffffff&border_color=2e2e2e&theme=graywhite)
