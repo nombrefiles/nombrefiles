@@ -4,33 +4,41 @@
 › currently developing skills in **web development** and **data science**.<br> 
 
 #### › find me
-[![behance](https://img.shields.io/badge/behance-2e2e2e?style=flat-square&logo=behance&logoColor=white)](https://behance.net/nombrefiles) 
-[![email](https://img.shields.io/badge/email-2e2e2e?style=flat-square&logo=gmail&logoColor=white)](mailto:publico.files@gmail.com) 
-[![spotify](https://img.shields.io/badge/spotify-2e2e2e?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/eu7o9cie6rtllm7l9qm541a3g?si=2d80e92259554429) 
-[![instagram](https://img.shields.io/badge/instagram-2e2e2e?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nombrefiles) 
+[![behance](https://img.shields.io/badge/behance-2e2e2e?logo=behance&logoColor=white)](https://behance.net/nombrefiles) 
+[![email](https://img.shields.io/badge/email-2e2e2e?logo=gmail&logoColor=white)](mailto:publico.files@gmail.com) 
+[![spotify](https://img.shields.io/badge/spotify-2e2e2e?logo=spotify&logoColor=white)](https://open.spotify.com/user/eu7o9cie6rtllm7l9qm541a3g?si=2d80e92259554429) 
+[![instagram](https://img.shields.io/badge/instagram-2e2e2e?logo=instagram&logoColor=white)](https://instagram.com/nombrefiles) 
 
 #### › tech stack
 
 ##### web development
-![spring](https://img.shields.io/badge/spring-2e2e2e?style=flat-square&logo=spring&logoColor=white) 
-![java](https://img.shields.io/badge/java-2e2e2e?style=flat-square&logo=openjdk&logoColor=white) 
-![typescript](https://img.shields.io/badge/typescript-2e2e2e?style=flat-square&logo=typescript&logoColor=white) 
-![javascript](https://img.shields.io/badge/javascript-2e2e2e?style=flat-square&logo=javascript&logoColor=white) 
-![nodejs](https://img.shields.io/badge/node.js-2e2e2e?style=flat-square&logo=node.js&logoColor=white) 
-![html5](https://img.shields.io/badge/html5-2e2e2e?style=flat-square&logo=html5&logoColor=white) 
-![css3](https://img.shields.io/badge/css3-2e2e2e?style=flat-square&logo=css3&logoColor=white) 
-![mysql](https://img.shields.io/badge/mysql-2e2e2e?style=flat-square&logo=mysql&logoColor=white) 
+![spring](https://img.shields.io/badge/spring-2e2e2e?logo=spring&logoColor=white) 
+![java](https://img.shields.io/badge/java-2e2e2e?logo=openjdk&logoColor=white) 
+![typescript](https://img.shields.io/badge/typescript-2e2e2e?logo=typescript&logoColor=white) 
+![javascript](https://img.shields.io/badge/javascript-2e2e2e?logo=javascript&logoColor=white) 
+![nodejs](https://img.shields.io/badge/node.js-2e2e2e?logo=node.js&logoColor=white) 
+![html](https://img.shields.io/badge/html5-2e2e2e?logo=html5&logoColor=white) 
+![css](https://img.shields.io/badge/css3-2e2e2e?logo=css&logoColor=white) 
+![mysql](https://img.shields.io/badge/mysql-2e2e2e?logo=mysql&logoColor=white) 
 
 ##### data science
-![python](https://img.shields.io/badge/python-2e2e2e?style=flat-square&logo=python&logoColor=white) 
-![pandas](https://img.shields.io/badge/pandas-2e2e2e?style=flat-square&logo=pandas&logoColor=white) 
-![numpy](https://img.shields.io/badge/numpy-2e2e2e?style=flat-square&logo=numpy&logoColor=white) 
-![plotly](https://img.shields.io/badge/plotly-2e2e2e?style=flat-square&logo=plotly&logoColor=white) 
+![python](https://img.shields.io/badge/python-2e2e2e?logo=python&logoColor=white) 
+![pandas](https://img.shields.io/badge/pandas-2e2e2e?logo=pandas&logoColor=white) 
+![numpy](https://img.shields.io/badge/numpy-2e2e2e?logo=numpy&logoColor=white) 
+![plotly](https://img.shields.io/badge/plotly-2e2e2e?logo=plotly&logoColor=white) 
 
 ##### other tools
-![git](https://img.shields.io/badge/git-2e2e2e?style=flat-square&logo=git&logoColor=white) 
-![markdown](https://img.shields.io/badge/markdown-2e2e2e?style=flat-square&logo=markdown&logoColor=white) 
-
+![git](https://img.shields.io/badge/git-2e2e2e?logo=git&logoColor=white) 
+![postman](https://img.shields.io/badge/postman-2e2e2e?logo=postman&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2e2e2e?logo=docker&logoColor=white)
+![figma](https://img.shields.io/badge/figma-2e2e2e?logo=figma&logoColor=white)
+![markdown](https://img.shields.io/badge/markdown-2e2e2e?logo=markdown&logoColor=white) 
 
 #### › github stats
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nombrefiles&layout=compact&hide=html,css&exclude_repo=ensaiei,premierLeague24-dataAnalisys,pw2&langs_count=4&title_color=000000&text_color=2e2e2e&bg_color=ffffff&border_color=2e2e2e&theme=graywhite)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nombrefiles&layout=compact&hide=html,css&exclude_repo=ensaiei,premierLeague24-dataAnalisys,pw2&langs_count=4&title_color=fff&text_color=fff&bg_color=2e2e2e&border_color=2e2e2e&theme=dark)
+
+
+#### › last listen
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=eu7o9cie6rtllm7l9qm541a3g&cover_image=true&theme=default&show_offline=false&background_color=2e2e2e&interchange=true&bar_color=303030&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=eu7o9cie6rtllm7l9qm541a3g&redirect=true)
+
+
