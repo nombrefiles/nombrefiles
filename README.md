@@ -34,11 +34,10 @@
 ![figma](https://img.shields.io/badge/figma-2e2e2e?logo=figma&logoColor=white)
 ![markdown](https://img.shields.io/badge/markdown-2e2e2e?logo=markdown&logoColor=white) 
 
+#### › recently played
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=filees&count=1&bg_color=2e2e2e&header_style=compact&footer_style=compact_stats&border_radius=3&width=300)
+
 #### › github stats
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nombrefiles&layout=compact&hide=html,css&exclude_repo=ensaiei,premierLeague24-dataAnalisys,pw2&langs_count=4&title_color=fff&text_color=fff&bg_color=2e2e2e&border_color=2e2e2e&theme=dark)
-
-
-#### › last listen
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=filees&count=1&bg_color=2e2e2e&header_style=compact&footer_style=compact_stats&border_radius=3&width=300)
 
 
