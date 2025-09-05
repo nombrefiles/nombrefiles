@@ -39,6 +39,6 @@
 
 
 #### › last listen
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=eu7o9cie6rtllm7l9qm541a3g&cover_image=true&theme=default&show_offline=false&background_color=2e2e2e&interchange=true&bar_color=303030&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=eu7o9cie6rtllm7l9qm541a3g&redirect=true)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=filees&count=1&bg_color=2e2e2e&header_style=compact&footer_style=compact_stats&border_radius=3&width=300)
 
 
