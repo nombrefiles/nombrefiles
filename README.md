@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=50&duration=2500&pause=1000&color=2e2e2e&vCenter=true&width=435&height=100&lines=sup+devs)
 
-› hi! im pedro, a junior student in a technical high school program focused on informatics: _ifsul charqueadas_.<br> 
-› im currently developing skills in **web development** and **data science**.<br> 
+› im pedro, a junior student in a technical high school program focused on informatics: _ifsul charqueadas_.<br> 
+› currently developing skills in **web development** and **data science**.<br> 
 
 #### › find me
 [![behance](https://img.shields.io/badge/behance-2e2e2e?style=flat-square&logo=behance&logoColor=white)](https://behance.net/nombrefiles) 
