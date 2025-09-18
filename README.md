@@ -31,8 +31,10 @@
 ![git](https://img.shields.io/badge/git-2e2e2e?logo=git&logoColor=white) 
 ![postman](https://img.shields.io/badge/postman-2e2e2e?logo=postman&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2e2e2e?logo=docker&logoColor=white)
+![composer](https://img.shields.io/badge/composer-2e2e2e?logo=composer&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-2e2e2e?logo=figma&logoColor=white)
-![markdown](https://img.shields.io/badge/markdown-2e2e2e?logo=markdown&logoColor=white) 
+![markdown](https://img.shields.io/badge/markdown-2e2e2e?logo=markdown&logoColor=white)
+![latex](https://img.shields.io/badge/latex-2e2e2e?logo=latex&logoColor=white)
 
 #### › recently played
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=filees&count=1&bg_color=2e2e2e&header_style=compact&footer_style=compact_stats&border_radius=3&width=300)](https://www.last.fm/user/filees)
